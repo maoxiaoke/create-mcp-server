@@ -1,11 +1,10 @@
 {
-  "name": "y",
-  "version": "0.1.0",
-  "description": "A Model Context Protocol server",
-  "private": true,
+  "name": "create-mcp-server",
+  "version": "0.0.1",
+  "description": "A MCP Server to create MCP Servers",
   "type": "module",
   "bin": {
-    "y": "./build/index.js"
+    "create-mcp-server": "./build/index.js"
   },
   "files": [
     "build"
